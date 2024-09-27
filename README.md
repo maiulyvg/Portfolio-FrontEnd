@@ -13,7 +13,7 @@ Projetos desenvolvidos tendo como base dados públicos ou fictícios, durante o 
 
 ## **Lista de projetos:** ##
 
-- ⛵ <a href="https://github.com/maiulyvg/Portfolio-FrontEnd/blob/maiulyvg/Agencia_Turismo/README.md">**Agência de Turismo**</a>
+- ⛵ <a href="https://github.com/maiulyvg/Agencia_Turismo/blob/agencia_turismo/README.md">**Agência de Turismo**</a>
 
 
 
